@@ -11,4 +11,4 @@ Infix to Postfix Function and Queue implementation
 8. Pushes parentheses and operators to a stack in order of precedence. 
 9. Pops matching parentheses when the right hand match is compared to it's left hand.
 10. If an invalid symbol is in the string, postfix variable becomes an empty string and the loop is broken.
-11. 11. If the postfix variable is an empty string, "Invalid expression is returned.
+11. If the postfix variable is an empty string, "Invalid expression is returned.
